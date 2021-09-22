@@ -1,0 +1,8 @@
+2021-08-23 15:18:21,071 WARNING Gtk: 
+(org.gnome.meld:1000): Pango-[1;33mWARNING[0m **: [34m15:18:21.070[0m: couldn't load font "Source Code Pro Not-Rotated 10", falling back to "Sans Not-Rotated 10", expect ugly output.
+2021-08-26 07:11:06,727 WARNING Gtk: 
+(org.gnome.meld:2816): Pango-[1;33mWARNING[0m **: [34m07:11:06.726[0m: couldn't load font "Source Code Pro Not-Rotated 10", falling back to "Sans Not-Rotated 10", expect ugly output.
+2021-08-30 17:19:48,559 WARNING Gtk: 
+(org.gnome.meld:1776): Pango-[1;33mWARNING[0m **: [34m17:19:48.559[0m: couldn't load font "Source Code Pro Not-Rotated 10", falling back to "Sans Not-Rotated 10", expect ugly output.
+2021-08-30 17:49:46,957 WARNING Gtk: 
+(org.gnome.meld:4160): Pango-[1;33mWARNING[0m **: [34m17:49:46.957[0m: couldn't load font "Source Code Pro Not-Rotated 10", falling back to "Sans Not-Rotated 10", expect ugly output.

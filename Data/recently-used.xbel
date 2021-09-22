@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///C:/pd/MeldPortable/Data/meld/recent-ab90a4ez.meldcmp" added="2021-08-23T09:47:18.175987Z" modified="2021-08-23T09:47:18.175987Z" visited="2021-08-23T09:47:18.175987Z">
+    <title>Version control: C:\pd\alots.in-version-1</title>
+    <desc>Version control comparison
+file:///C:/pd/alots.in-version-1</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;C:\pd\MeldPortable\App\Meld\Meld.exe --comparison-file %u&apos;" modified="2021-08-23T09:47:18.175987Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///C:/pd/MeldPortable/Data/meld/recent-skiko5ea.meldcmp" added="2021-08-26T01:40:46.745351Z" modified="2021-08-26T01:40:46.745351Z" visited="2021-08-26T01:40:46.745351Z">
+    <title>Version control: C:\pd\alots.in-version-1\src</title>
+    <desc>Version control comparison
+file:///C:/pd/alots.in-version-1/src</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;C:\pd\MeldPortable\App\Meld\Meld.exe --comparison-file %u&apos;" modified="2021-08-26T01:40:46.745351Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///C:/pd/MeldPortable/Data/meld/recent-7gnv8nj2.meldcmp" added="2021-08-30T11:49:34.306306Z" modified="2021-08-30T11:49:34.306306Z" visited="2021-08-30T11:49:34.306306Z">
+    <title>Version control: C:\pd\version-2</title>
+    <desc>Version control comparison
+file:///C:/pd/version-2</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;C:\pd\MeldPortable\App\Meld\Meld.exe --comparison-file %u&apos;" modified="2021-08-30T11:49:34.306306Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///C:/pd/MeldPortable/Data/meld/recent-jqioyf67.meldcmp" added="2021-08-30T12:17:00.816313Z" modified="2021-08-30T12:17:00.816313Z" visited="2021-08-30T12:17:00.816313Z">
+    <title>Version control: C:\pd\version-2</title>
+    <desc>Version control comparison
+file:///C:/pd/version-2</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;C:\pd\MeldPortable\App\Meld\Meld.exe --comparison-file %u&apos;" modified="2021-08-30T12:17:00.816313Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
